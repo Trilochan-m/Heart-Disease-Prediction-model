@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-model
+CHANGE THE DIRECTORY OF THE CSV FILE
